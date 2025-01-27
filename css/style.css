@@ -39,9 +39,9 @@ html{
 
 }
 
-.left span, .right span{
+ .right span{
     /* margin-left: 20px; */
-    padding: 10px ;
+    padding: 0 10px ;
 }
 .right {
     /* margin-left: 80px; */
