@@ -127,10 +127,10 @@ html{
     background-image: linear-gradient(rgba(0,0,0,0.4)0%, rgb(0,0,0,0.9)100%), url(../images1/25_magicstudio_m67qiaeabbc.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 83vh;
+    /* height: 83vh; */
     color: #FFFFFF;
     text-align: left;
-    padding: 250px 0 0 130px;
+    padding: 250px 0;
     background-color: yellow;
 }
 
