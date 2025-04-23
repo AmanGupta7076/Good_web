@@ -1165,6 +1165,7 @@ input{
     }
     .box1 .left .span1{
         width: 50%;
+        padding-left: 5px;
         /* background-color: aqua; */
     }
     .box1 .left .span2{
@@ -1276,13 +1277,10 @@ input{
         width: 70%;
         margin: 50px 0;
     }
+
     /* eighth sectiob */
     
-
-
-    
-
-.bx8-1 #main{
+    .bx8-1 #main{
     display:block;}
 
     .bx8-1 .con2{
@@ -1331,6 +1329,7 @@ input{
 
     .main .box1 .left .span1{
         width: 50%;
+        padding-left: 5px;
         /* background-color: cadetblue; */
     }
 
